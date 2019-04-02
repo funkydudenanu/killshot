@@ -83,7 +83,7 @@ This Tool Bearing A simple Ruby Fuzzer Tested on VULSERV.exe And Linux Log clear
     git clone https://github.com/bahaabdelwahed/killshot
     cd killshot
     ruby setup.rb (if setup show any error just try to install the gems/tool manual )
-    ruby killshot.rb
+    ruby Killshot.rb
 # Windows Setup
     Download ruby for windows ==> https://rubyinstaller.org/downloads/
     Download Cmder here       ==> http://cmder.net/
